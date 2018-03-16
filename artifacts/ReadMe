@@ -1,5 +1,0 @@
-1. Start WSO2 EI-6.XX
-2. Upload .dbs file from management console
-3. Deploy blimpItEndpoint.xml file to synspse-config/endpoints folder
-4. Deploy usermanagement.xml file to synapse-config/api folder
-
